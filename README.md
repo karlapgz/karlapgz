@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Karla Guzmán</h1>
 <h3 align="center">Frontend Jr. de México que esta aprendiendo de manera autodidacta</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo **JS** y **React**
 
 - 📫 Puedes contactarme en **karlapgguzman@gmail.com**
 
