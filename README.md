@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JS** y **React**
 
-- 📫 Puedes contactarme en **karlapgguzman@gmail.com**
+- 📫 Puedes contactarme en **karlaguzmanpg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
